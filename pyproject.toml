@@ -8,5 +8,6 @@ dependencies = [
     "langchain-ollama>=1.0.1",
     "mcp-use>=1.7.0",
     "mcp[cli]>=1.27.0",
+    "nest-asyncio>=1.6.0",
     "use>=0.1.0",
 ]
